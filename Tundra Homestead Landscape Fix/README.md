@@ -1,8 +1,6 @@
 ![Tundra Homestead Landscape Fix](img/header.webp)
 
-A general landscape fix for the Creation Club's Tundra Homestead. It corrects the clipping and missing ground around the entrance that can appear when other mods edit the vanilla landscape nearby.
-
-> **Note:** This seems to be caused by mods that edit the vanilla landscape around Tundra Homestead, and it's been reported with a number of them, so this fix may help in those cases too — but I can't promise anything!
+When combining Tundra Homestead from the Creation Club with other mods, this can cause issues with misaligned landscape around the house itself. This patch reapplies the landscape changes of Tundra Homestead to resolve those issues.
 
 ## How I Found It
 
